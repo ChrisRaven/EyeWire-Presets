@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Presets
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Presets for EyeWire
 // @author       Krzysztof Kruk
 // @match        https://*.eyewire.org/*
 // @exclude      https://*.eyewire.org/1.0/*
-// @downloadURL  https://raw.githubusercontent.com/ChrisRaven/EyeWire-Presets/master/utilities.user.js
+// @downloadURL  https://raw.githubusercontent.com/ChrisRaven/EyeWire-Presets/master/presets.user.js
 // ==/UserScript==
 
 /*jshint esversion: 6 */
